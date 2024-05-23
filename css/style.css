@@ -1,3 +1,7 @@
+body {
+    background-color: color(51, 51, 51);
+}
+
 .navbar {
-    
+    margin-left: 20px;
 }
